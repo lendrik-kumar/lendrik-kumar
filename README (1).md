@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Vaidik%20Bhardwaj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sanket&fontSize=80&animation=fadeIn&fontAlignY=35&desc=&descAlignY=50&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%F0%9F%91%8B+Hey!+I'm+Vaidik+Bhardwaj;%F0%9F%9A%80+Building+the+Future+of+Tech;%F0%9F%8C%9F+Crafting+Scalable+Solutions;%E2%9A%A1+Innovating+Through+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=%F0%9F%91%8B+Hey!+I'm+Sanket;%F0%9F%9A%80+Building+the+Future+of+Tech;%F0%9F%8C%9F+Crafting+Scalable+Solutions;%E2%9A%A1+Innovating+Through+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Design+Enthusiast;Cloud+Native+;Distributed+Systems+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+stack+Developer;Micro+Controllers+Enthusiast;Cloud+Native+;Distributed+Systems+" />
 </div>
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
@@ -19,7 +19,7 @@
 
 
   
-🎯 Distributed Systems<br>
+🎯 MERN stack<br>
 
 
   
@@ -35,7 +35,7 @@
 
 
 
-💡 System Design 
+💡 Microcontrollers 
 
 
 
@@ -62,8 +62,8 @@
 {
   "technologies": {
     "core_languages": {
-      "primary": ["Go", "Java"],
-      "familiar": ["Python", "JavaScript"]
+      "primary": ["JavaScript", "Java","cpp"],
+      "familiar": ["Python", "go"]
     },
     "cloud_native": {
       "containerization": ["Docker", "Containerd"],
@@ -73,8 +73,8 @@
     "distributed_systems": {
       "messaging": ["Null", "Null"],
       "databases": {
-        "sql": ["PostgreSQL", "MySQL"],
-        "nosql": ["MongoDB", "Redis"]
+        "sql": ["MySQL"],
+        "nosql": ["MongoDB"]
       },
       "observability": ["Prometheus", "Null", "Jaeger"]
     },
@@ -91,12 +91,12 @@
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
   </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikcode&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidikcode&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lendrik-kumar&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lendrik-kumar&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaidikcode&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lendrik-kumar&theme=tokyonight&no-frame=true&row=1&column=7" width="98%" />
 </div>
 
 <h2 align="center">
@@ -104,10 +104,10 @@
 </h2>
 
 <div align="center">
-  <a href="mailto:vaidikbhardwaj00@gmail.com">
+  <a href="mailto:sanketkamboj2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/VaidikBhrdwj">
+  <a href="https://x.com/SANKETKAMBOJ1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -115,7 +115,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=vaidikcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lendrik-kumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </div>
 
 <div align="center">
